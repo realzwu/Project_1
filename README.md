@@ -1,4 +1,4 @@
-# Project_1
+# Cancer Informatics Project 1
 Code for MRes Cancer Informatics Project 1
 
 ## Sequence for machine learning (on google colab):
