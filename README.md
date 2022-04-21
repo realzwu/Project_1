@@ -20,4 +20,4 @@ process-characteristics.py - characteristics-sarcopenia.py / Correlation.py / ba
 
 ## for manual segmentations:
 
-please refer to https://github.com/scat2801/sarc_tool
+please refer to my day-to-day supervisor Dr. Mitchell Chen: https://github.com/scat2801/sarc_tool
