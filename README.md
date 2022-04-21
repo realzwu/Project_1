@@ -21,6 +21,6 @@ pip install opencv-python-headless==4.1.2.30
 
 process-characteristics.py - characteristics-sarcopenia.py / Correlation.py / barplot.py / survival.py /  multivariate.py / univariate.py
 
-## for manual segmentations:
+## Segmentation data processing (remove non-muscle area):
 
-please refer to my day-to-day supervisor Dr. Mitchell Chen: https://github.com/scat2801/sarc_tool
+please refer to Dr. Mitchell Chen: https://github.com/scat2801/sarc_tool
