@@ -1,0 +1,4 @@
+,Height (cm),Weight (kg),Gender,Ethnicity,Death,Survival Time (up to 3 years),Age,Tumour Status,Histology Class,Stage Grouping - Numeral,Performance Status,SMA_Major,SMA_Minor,MHU_Major,MHU_Minor,SMA_T12,MHU_T12,SMA_L3,MHU_L3,SMA_T4,MHU_T4
+62,,,Male,White - Irish,1,21,76.38329911,Primary,"NLSLC, unspecified",IV,1,2773.259613,801.5844727,44.56643918,38.04861111,8124.392624,31.14765331,13831.22874,35.29319435,3574.844086,43.10495173
+152977,167,96,Male,White - British,0,1095,66.41204654,Primary,Adenocarcinoma,II,1,2317.238831,880.7409058,21.72137262,24.89793916,7455.61438,9.883955483,13058.12915,18.45333598,3197.979737,22.59621622
+etc.,,,,,,,,,,,,,,,,,,,,,
