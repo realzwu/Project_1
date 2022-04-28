@@ -14,7 +14,7 @@ pip install opencv-python-headless==4.1.2.30
 ```
 ### Then run:
 ```
-pip install opencv-python-headless==4.1.2.30
+python /content/drive/MyDrive/sarcopenia_zd2/train.py
 ```
 
 ## Sequence for statistics:
