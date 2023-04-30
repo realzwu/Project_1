@@ -1,3 +1,5 @@
+Now the new repositories for updated sarcopenia evaluation model will be soon updated here: https://github.com/realzwu/sarcopenia-unet
+
 # Cancer Informatics Project 1
 Code for MRes Cancer Informatics Project 1
 
