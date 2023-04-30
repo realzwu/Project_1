@@ -11,7 +11,6 @@ importnii.py - generator.py - train.py (dataset.py, utils.py, model.py) - log.py
 ```
 apt-get update
 apt-get intall python 3.10
-pip install torch-xla
 pip install -U git+https://github.com/albumentations-team/albumentations
 pip install opencv-python-headless
 ```
